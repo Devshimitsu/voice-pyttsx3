@@ -13,7 +13,8 @@
 # This Will Only Work On Windows!
 
 ## Installation 
-After Download Or clone, Navigate To Folder And Run `python main.py`
+Install "Cortana.reg" And "install pyttsx3.bat"
+Then Open Cmd And Type `python main.py`
 
 
 
