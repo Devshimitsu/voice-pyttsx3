@@ -13,8 +13,9 @@
 # This Will Only Work On Windows!
 
 ## Installation 
-####Install "Cortana.reg" And "install pyttsx3.bat"
-####Then Open Cmd And Type `python main.py`
+Install "Cortana.reg" And "install pyttsx3.bat"
+
+Then Open Cmd And Type `python main.py`
 
 
 
