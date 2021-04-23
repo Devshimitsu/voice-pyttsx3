@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Devshimitsu-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-JavaScript-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-python-cyan?style=flat-square">
 </p>
 
 # This Will Only Work On Windows!
