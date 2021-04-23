@@ -13,7 +13,7 @@
 # This Will Only Work On Windows!
 
 ## Installation 
-After download or clone run `python main.py`.
+After Download Or clone, Navigate To Folder And Run `python main.py`
 
 
 
