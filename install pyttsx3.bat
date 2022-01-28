@@ -1,1 +1,0 @@
-start cmd /k "pip install pyttsx3"
